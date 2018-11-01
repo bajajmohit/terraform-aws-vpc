@@ -15,7 +15,7 @@ variable "amis" {
     }
 }
 
-variable "user_data" {
+variable "yum install -y jenkins" {
   description = "The path to a file with user_data for the instances"
 }
 
